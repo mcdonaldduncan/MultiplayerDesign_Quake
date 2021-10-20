@@ -2486,17 +2486,17 @@
 // entity 27
 {
 "classname" "item_health"
-"origin" "401 448 25"
+"origin" "401 448 29"
 }
 // entity 28
 {
 "classname" "item_shells"
-"origin" "590 480 26"
+"origin" "570 480 30"
 }
 // entity 29
 {
 "classname" "item_spikes"
-"origin" "591 432 25"
+"origin" "571 432 29"
 }
 // entity 30
 {
@@ -2506,12 +2506,12 @@
 // entity 31
 {
 "classname" "item_shells"
-"origin" "585 -1488 27"
+"origin" "573 -1488 31"
 }
 // entity 32
 {
 "classname" "item_spikes"
-"origin" "584 -1536 30"
+"origin" "580 -1536 34"
 }
 // entity 33
 {
@@ -2556,7 +2556,7 @@
 // entity 41
 {
 "classname" "item_health"
-"origin" "416 400 -320"
+"origin" "420 408 -312"
 }
 // entity 42
 {
@@ -2651,7 +2651,7 @@
 // entity 60
 {
 "classname" "item_health"
-"origin" "592 -1456 -320"
+"origin" "580 -1456 -312"
 }
 // entity 61
 {
